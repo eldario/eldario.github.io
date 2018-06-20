@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdbc7194-9f8c-4f44-982d-85561bf286ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/index.html" afterPath="$PROJECT_DIR$/first/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="eldario.github.io.iws" />
@@ -288,7 +287,13 @@
       <option name="project" value="LOCAL" />
       <updated>1529522294358</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add lightbox">
+      <created>1529522369286</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529522369286</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -331,7 +336,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="minify" />
     <MESSAGE value="add to ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="add to ignore" />
+    <MESSAGE value="add lightbox" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lightbox" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
