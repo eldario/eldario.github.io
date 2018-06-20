@@ -308,7 +308,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 .portfolio-modal {
-  padding-right: 0px !important;
+  padding-right: 0 !important;
 }
 
 .portfolio-modal .modal-dialog {
@@ -697,3 +697,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
 }
+
+.image-link{margin:5px;}
+.image-link img{transition: all 0.3s ease;filter: grayscale(100%);opacity: 0.66;}
+.image-link img:hover{filter:none;opacity: 1;}
