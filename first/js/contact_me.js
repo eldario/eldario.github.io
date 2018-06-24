@@ -20,7 +20,7 @@ $(function() {
       $this = $("#sendMessageButton");
       $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
       $.ajax({
-        url: "././mail/contact_me.php",
+        url: "https://formspree.io/eldario666@gmail.com",
         type: "POST",
         data: {
           name: name,
@@ -60,7 +60,7 @@ $(function() {
     },
     filter: function() {
       return $(this).is(":visible");
-    },
+    }
   });
 
   $("a[data-toggle=\"tab\"]").click(function(e) {
