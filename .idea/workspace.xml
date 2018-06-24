@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdbc7194-9f8c-4f44-982d-85561bf286ef" name="Default" comment="add form sender">
+    <list default="true" id="bdbc7194-9f8c-4f44-982d-85561bf286ef" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/js/contact_me.js" afterPath="$PROJECT_DIR$/first/js/contact_me.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -49,12 +49,14 @@
       <file leaf-file-name="contact_me.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/first/js/contact_me.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3890625">
-              <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.30441898">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
               <folding>
                 <element signature="e#161#213#0" expanded="true" />
-                <element signature="e#1187#1719#0" expanded="true" />
-                <element signature="e#2551#2595#0" expanded="true" />
+                <element signature="e#1745#2288#0" expanded="true" />
+                <element signature="e#2319#2481#0" expanded="true" />
+                <element signature="e#2353#2463#0" expanded="true" />
+                <element signature="e#2522#2566#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -103,12 +105,6 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
-    <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
-      </GitPushTagMode>
-    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -332,7 +328,13 @@
       <option name="project" value="LOCAL" />
       <updated>1529840590249</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add form sender">
+      <created>1529841467758</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1529841467758</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -595,12 +597,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first/js/contact_me.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3890625">
-          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.30441898">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
           <folding>
             <element signature="e#161#213#0" expanded="true" />
-            <element signature="e#1187#1719#0" expanded="true" />
-            <element signature="e#2551#2595#0" expanded="true" />
+            <element signature="e#1745#2288#0" expanded="true" />
+            <element signature="e#2319#2481#0" expanded="true" />
+            <element signature="e#2353#2463#0" expanded="true" />
+            <element signature="e#2522#2566#0" expanded="true" />
           </folding>
         </state>
       </provider>
