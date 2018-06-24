@@ -596,60 +596,60 @@ header.masthead .intro-text .intro-heading {
   margin-top: 0;
 }
 
-section#contact {
-  background-color: #212529;
-  background-image: url("../img/map-image.png");
+section#calculation {
+  background-color: #000;
+  background-image: url("../img/calc-bg.jpg");
   background-repeat: no-repeat;
   background-position: center;
 }
 
-section#contact .section-heading {
+section#calculation .section-heading {
   color: #fff;
 }
 
-section#contact .form-group {
+section#calculation .form-group {
   margin-bottom: 25px;
 }
 
-section#contact .form-group input,
-section#contact .form-group textarea {
+section#calculation .form-group input,
+section#calculation .form-group textarea {
   padding: 20px;
 }
 
-section#contact .form-group input.form-control {
+section#calculation .form-group input.form-control {
   height: auto;
 }
 
-section#contact .form-group textarea.form-control {
+section#calculation .form-group textarea.form-control {
   height: 248px;
 }
 
-section#contact .form-control:focus {
+section#calculation .form-control:focus {
   border-color: #fed136;
   box-shadow: none;
 }
 
-section#contact ::-webkit-input-placeholder {
+section#calculation ::-webkit-input-placeholder {
   font-weight: 700;
   color: #ced4da;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-section#contact :-moz-placeholder {
+section#calculation :-moz-placeholder {
   font-weight: 700;
   color: #ced4da;
   /* Firefox 18- */
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-section#contact ::-moz-placeholder {
+section#calculation ::-moz-placeholder {
   font-weight: 700;
   color: #ced4da;
   /* Firefox 19+ */
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-section#contact :-ms-input-placeholder {
+section#calculation :-ms-input-placeholder {
   font-weight: 700;
   color: #ced4da;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
