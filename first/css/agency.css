@@ -70,8 +70,12 @@ section h3.section-subheading {
 }
 
 .btn-primary {
+  /*
   background-color: #fed136;
   border-color: #fed136;
+  */
+  background-color: #4a76a8;
+  border-color: #4a76a8;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -85,12 +89,14 @@ section h3.section-subheading {
 }
 
 ::-moz-selection {
-  background: #fed136;
+  background: #4a76a8;
+  color:#FFF;
   text-shadow: none;
 }
 
 ::selection {
-  background: #fed136;
+  background: #4a76a8;
+  color:#FFF;
   text-shadow: none;
 }
 
@@ -118,12 +124,13 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color: #fed136;
+  /*color: #fed136;*/
+  color:#FFF;
   font-family: 'Marmelad', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #FFF;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
@@ -131,29 +138,34 @@ img::-moz-selection {
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
-  color: white;
+  color: #bfcee0;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link.active, #mainNav .navbar-nav .nav-item .nav-link:hover {
-  color: #fed136;
+  /*color: #fed136;*/
+  color:#FFF;
 }
 
 @media (min-width: 992px) {
   #mainNav {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    /*padding-top: 25px;
+    background-color: transparent;
+    padding-bottom: 25px;*/
     -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
     -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
     transition: padding-top 0.3s, padding-bottom 0.3s;
     border: none;
-    background-color: transparent;
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #212529;
   }
   #mainNav .navbar-brand {
     font-size: 1.75em;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
+    padding: 12px 0;
   }
   #mainNav .navbar-nav .nav-item .nav-link {
     padding: 1.1em 1em !important;
@@ -164,7 +176,7 @@ img::-moz-selection {
     background-color: #212529;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    font-size: 1.25em;
+    /*font-size: 1.25em;*/
     padding: 12px 0;
   }
 }
@@ -701,3 +713,5 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .image-link{margin:5px;}
 .image-link img{transition: all 0.3s ease;filter: grayscale(100%);opacity: 0.66;}
 .image-link img:hover{filter:none;opacity: 1;}
+
+.bg-grey{background-color:#EEE!important;}
