@@ -715,3 +715,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .image-link img:hover{filter:none;opacity: 1;}
 
 .bg-grey{background-color:#EEE!important;}
+
+.contact-info p{color:#4a76a8;margin:0;padding:0;}
+
+.hidden,#reviews{display:none!important;}
