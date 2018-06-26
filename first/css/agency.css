@@ -711,7 +711,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 .image-link{margin:5px;}
-.image-link img{transition: all 0.3s ease;filter: grayscale(100%);opacity: 0.66;}
+.image-link img{transition: all 0.3s ease;filter: grayscale(100%);opacity: 0.66;border-radius:10px;}
 .image-link img:hover{filter:none;opacity: 1;}
 
 .bg-grey{background-color:#EEE!important;}
