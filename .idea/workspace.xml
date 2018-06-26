@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdbc7194-9f8c-4f44-982d-85561bf286ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/css/agency.css" afterPath="$PROJECT_DIR$/first/css/agency.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/index.html" afterPath="$PROJECT_DIR$/first/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="eldario.github.io.iws" />
@@ -79,7 +77,7 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/first/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7567568">
+            <state vertical-scroll-proportion="1.2082671">
               <caret line="713" column="99" selection-start-line="713" selection-start-column="99" selection-end-line="713" selection-end-column="99" />
               <folding>
                 <element signature="e#244#347#0" expanded="false" />
@@ -486,7 +484,13 @@
       <option name="project" value="LOCAL" />
       <updated>1529987452514</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="change placing">
+      <created>1529988335402</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1529988335402</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -535,7 +539,8 @@
     <MESSAGE value="change title of index" />
     <MESSAGE value="add form sender" />
     <MESSAGE value="change colors, add text" />
-    <option name="LAST_COMMIT_MESSAGE" value="change colors, add text" />
+    <MESSAGE value="change placing" />
+    <option name="LAST_COMMIT_MESSAGE" value="change placing" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1099,7 +1104,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7567568">
+        <state vertical-scroll-proportion="1.2082671">
           <caret line="713" column="99" selection-start-line="713" selection-start-column="99" selection-end-line="713" selection-end-column="99" />
           <folding>
             <element signature="e#244#347#0" expanded="false" />
