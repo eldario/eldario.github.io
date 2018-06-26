@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdbc7194-9f8c-4f44-982d-85561bf286ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/css/agency.css" afterPath="$PROJECT_DIR$/first/css/agency.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/index.html" afterPath="$PROJECT_DIR$/first/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="eldario.github.io.iws" />
@@ -29,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/first/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.86624205">
-              <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.49840763">
+              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
               <folding>
                 <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -497,7 +495,13 @@
       <option name="project" value="LOCAL" />
       <updated>1529988552661</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="changes">
+      <created>1529991522493</created>
+      <option name="number" value="00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1529991522493</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -548,7 +552,8 @@
     <MESSAGE value="change colors, add text" />
     <MESSAGE value="change placing" />
     <MESSAGE value="workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1204,8 +1209,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.86624205">
-          <caret line="59" column="14" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.49840763">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
           <folding>
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
