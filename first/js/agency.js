@@ -48,7 +48,7 @@
   })
   var gb = $('#gallery-block');
   for(var i=1; i<24;i++){
-    gb.append('<a class="image-link" href="img/catalog/'+(i<10?'0':'')+i+'.jpg" data-lightbox="example-set"><img class="example-image" src="img/catalog/thumbs/'+(i<10?'0':'')+i+'.jpg" alt="Golden Gate Bridge with San Francisco in distance"></a>');
+    gb.append('<a class="image-link" href="img/catalog/'+(i<10?'0':'')+i+'.jpg" data-lightbox="example-set"><img class="example-image" src="img/catalog/thumbs/'+(i<10?'0':'')+i+'.jpg" alt="photo '+i+'"></a>');
 
   }
 
