@@ -119,7 +119,7 @@ img::-moz-selection {
   text-transform: uppercase;
   color: white;
   border: 0;
-  background-color: #fed136;
+  background-color: #0062cc;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -716,6 +716,6 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .bg-grey{background-color:#EEE!important;}
 
-.contact-info p{color:#4a76a8;margin:0;padding:0;}
+.contact-info p{color:#4a76a8;margin:0;padding:0;white-space: nowrap;}
 
 .hidden,#reviews{display:none!important;}

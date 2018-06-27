@@ -2,108 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdbc7194-9f8c-4f44-982d-85561bf286ef" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\46.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\47.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\48.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\24.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\25.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\26.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\27.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\28.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\29.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\30.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\31.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\32.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\33.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\34.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\35.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\36.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\37.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\38.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\39.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\40.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\41.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\44.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\46.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\47.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\48.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\catalog\thumbs\49.jpg" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Администратор\Documents\GitHub\eldario.github.io\first\img\header-bg2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/01.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/01.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/02.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/02.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/03.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/03.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/04.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/04.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/05.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/05.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/06.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/06.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/06.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/06.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/07.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/07.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/07.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/07.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/08.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/08.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/08.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/08.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/09.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/09.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/09.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/09.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/10.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/10.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/10.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/11.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/11.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/11.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/12.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/12.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/12.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/13.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/13.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/13.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/14.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/14.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/14.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/15.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/15.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/15.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/16.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/16.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/16.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/17.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/17.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/17.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/18.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/18.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/18.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/19.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/19.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/19.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/20.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/20.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/20.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/21.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/21.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/21.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/22.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/22.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/22.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/23.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/catalog/thumbs/23.jpg" afterPath="$PROJECT_DIR$/first/img/catalog/thumbs/23.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/img/header-bg.jpg" afterPath="$PROJECT_DIR$/first/img/header-bg.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/css/agency.css" afterPath="$PROJECT_DIR$/first/css/agency.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/js/agency.js" afterPath="$PROJECT_DIR$/first/js/agency.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first/index.html" afterPath="$PROJECT_DIR$/first/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -130,8 +29,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/first/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.79514414">
-              <caret line="511" column="0" selection-start-line="511" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7936267">
+              <caret line="393" column="20" selection-start-line="393" selection-start-column="20" selection-end-line="393" selection-end-column="20" />
               <folding>
                 <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -140,6 +39,9 @@
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#27736#28452#0" expanded="true" />
+                <element signature="e#27782#28028#0" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -180,8 +82,8 @@
       <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/first/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.586206">
-              <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+            <state vertical-scroll-proportion="-6.206897">
+              <caret line="121" column="27" selection-start-line="121" selection-start-column="27" selection-end-line="121" selection-end-column="27" />
               <folding>
                 <element signature="e#351#375#0" expanded="false" />
                 <element signature="e#379#400#0" expanded="false" />
@@ -604,27 +506,33 @@
       <option name="project" value="LOCAL" />
       <updated>1529991522493</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="metrika and gtag">
+      <created>1530096047737</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1530096047737</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2064" height="1128" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299298" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.112774454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998997" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32983682" sideWeight="0.5047862" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28485456" sideWeight="0.49521378" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28485456" sideWeight="0.49521378" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32983682" sideWeight="0.49776644" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3299298" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.112774454" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39919758" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998997" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -656,7 +564,8 @@
     <MESSAGE value="change placing" />
     <MESSAGE value="workspace" />
     <MESSAGE value="changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes" />
+    <MESSAGE value="metrika and gtag" />
+    <option name="LAST_COMMIT_MESSAGE" value="metrika and gtag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -675,6 +584,9 @@
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#27736#28452#0" expanded="true" />
+            <element signature="e#27782#28028#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -828,6 +740,9 @@
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#27736#28452#0" expanded="true" />
+            <element signature="e#27782#28028#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -982,6 +897,9 @@
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#27736#28452#0" expanded="true" />
+            <element signature="e#27782#28028#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1128,6 +1046,9 @@
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#27736#28452#0" expanded="true" />
+            <element signature="e#27782#28028#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1346,10 +1267,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.29781023">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/first/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.586206">
-          <caret line="83" column="17" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+        <state vertical-scroll-proportion="-6.206897">
+          <caret line="121" column="27" selection-start-line="121" selection-start-column="27" selection-end-line="121" selection-end-column="27" />
           <folding>
             <element signature="e#351#375#0" expanded="false" />
             <element signature="e#379#400#0" expanded="false" />
@@ -1459,8 +1388,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/first/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79514414">
-          <caret line="511" column="0" selection-start-line="511" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7936267">
+          <caret line="393" column="20" selection-start-line="393" selection-start-column="20" selection-end-line="393" selection-end-column="20" />
           <folding>
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1469,6 +1398,9 @@
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#27736#28452#0" expanded="true" />
+            <element signature="e#27782#28028#0" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
