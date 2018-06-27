@@ -719,3 +719,4 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .contact-info p{color:#4a76a8;margin:0;padding:0;white-space: nowrap;}
 
 .hidden,#reviews{display:none!important;}
+.dotted{border-bottom:1px dotted #17a2b8;cursor:pointer;font-size: 1.5rem;}
